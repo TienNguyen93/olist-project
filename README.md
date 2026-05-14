@@ -44,4 +44,6 @@ This project processes over 100k e-commerce orders from the Brazilian E-Commerce
 * ✅ Insights: Performed sentiment analysis on customer reviews to identify improvement opportunities
 
 ### Demo
-[Dashboards review video](https://youtu.be/Z5CKsHc4Pa0)
+[Walkthrough video](https://youtu.be/Z5CKsHc4Pa0)
+<br></br>
+![Alt Text](olist.png)
